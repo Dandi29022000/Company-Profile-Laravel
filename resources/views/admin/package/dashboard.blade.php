@@ -26,10 +26,12 @@
                     <div class="card-body">
                         <div class="text-center">
                             <img class="img-fluid px-3 px-sm-4 mt-3 mb-4" style="width: 25rem;"
-                                src="{{ asset('img/Global-Kidz.jpg') }}">
+                                src="{{ asset('img/cv karya multimedia.jpg') }}">
                         </div>
-                        <p>Global Kidz adalah penyedia jasa sewa permainan No.1 di indonesia. Kami juga menyediakan jasa sewa games, game event, dan game activation, 
-                          Global Kidz senantiasa menjaga profesionalitasnya sejak berdirinya yaitu Tahun 2004.
+                        <p>
+                          Berdiri tahun 2019, didirikan di Jawa Timur dikukuhkan dengan Akta Pendirian Perusahaan di 
+                          hadapan Notaris Donni Yulian Dwi Siswanto, SH, M.Kn. Penandatangan oleh pejabat yang ditunjuk 
+                          dihadapan notaris ini dilakukan pada tanggal 18 Oktober 2019.
                         </p>
                     </div>
                 </div>

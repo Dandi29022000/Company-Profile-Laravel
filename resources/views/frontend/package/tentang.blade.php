@@ -6,9 +6,9 @@
     <div class="container">
     <h5 class="display-3 text-center" id="tentang">Tentang</h5>
     <p class="text-center">
-    Berdiri tahun 2019, didirikan di Jawa Timur dikukuhkan dengan Akta Pendirian Perusahaan di 
-    hadapan Notaris Donni Yulian Dwi Siswanto, SH, M.Kn. Penandatangan oleh pejabat yang ditunjuk 
-    dihadapan notaris ini dilakukan pada tanggal 18 Oktober 2019.
+        Berdiri tahun 2019, didirikan di Jawa Timur dikukuhkan dengan Akta Pendirian Perusahaan di 
+        hadapan Notaris Donni Yulian Dwi Siswanto, SH, M.Kn. Penandatangan oleh pejabat yang ditunjuk 
+        dihadapan notaris ini dilakukan pada tanggal 18 Oktober 2019.
     </p>
     <div class="clearfix pt-5">
         <img

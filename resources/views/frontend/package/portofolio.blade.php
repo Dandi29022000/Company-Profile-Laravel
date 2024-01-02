@@ -6,9 +6,7 @@
     <div class="container text-center">
         <h2 class="display-3" id="portofolio">Portofolio</h2>
         <p>
-            Lorem ipsum dolor sit amet consectetur, adipisicing elit. Deleniti,
-            dolorum quasi? Neque consectetur odio placeat inventore perferendis
-            quibusdam omnis deleniti.
+            Berikut ini adalah daftar <b>PORTOFOLIO</b> yang pernah dikerjakan oleh CV Karya Multimedia :
         </p>
         <div class="row pt-4 gx-4 gy-4">
             @forelse ($portofolio as $por)
